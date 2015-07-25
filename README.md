@@ -1,4 +1,4 @@
-The R script, run_analysis.R, does the following:
+       The R script, run_analysis.R, does the following:
 
 1.		Get the path of files in this case its the current directory
 2 		load the Acitivity files
